@@ -3,7 +3,7 @@
 > William's Quests é um guia de carreira baseado em missões para quem deseja se tornar uma pessoa desenvolvedora de software!
 
 <p align="center">
-  <img src="https://github.com/woliveiras/williams-quests/blob/master/img/tibia-map.png" alt="mapa de missões" title="mapa de missões" width="500px">
+  <img src="https://github.com/woliveiras/williams-quests/blob/master/img/tibia-map.png?raw=true" alt="mapa de missões" title="mapa de missões" width="500px">
 </p>
 
 ---
