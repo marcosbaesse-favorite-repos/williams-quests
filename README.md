@@ -17,3 +17,9 @@ O projeto [Mentoria](https://github.com/training-center/mentoria/) é uma das in
 Através desse projeto nós conectamos pessoas que querem aprender com pessoas que tem algum tempinho disponível para ajudar. - *Assim como todos os outros projetos da comunidade TC.*
 
 Nesse repositório eu vou colocar os passos em sequência do que eu ensino para as pessoas que eu ajudo, então você pode conseguir ir bem longe mesmo sem minha ajuda direta. Porém, no processo de mentoria, nós também verificamos o nível de conhecimento da pessoa e podemos mudar toda essa trilha para se adequar melhor as necessidades de cada um... Por isso pode ser interessante que, mesmo seguindo a minha trilha, você procure a ajuda de um mentor ou de uma mentora lá no Mentoria.
+
+## Objetivo
+
+O seu objetivo aqui pode ser o mais variado e por isso vou manter todas as missões em um local e você pode escolher o que achar que faz sentido para a sua carreira.
+
+Você encontra os desafios na [lista de missões](https://github.com/woliveiras/williams-quests/blob/master/quests-chest/quest-list.md).
