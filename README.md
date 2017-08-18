@@ -1,6 +1,6 @@
-# William's Challenges
+# William's Quests: a career path in little tasks
 
-William's Challenges é um guia de carreira para quem deseja se tornar uma pessoa desenvolvedora de software em pequenos desafios.
+William's Quests é um guia de carreira baseado em missões para quem deseja se tornar uma pessoa desenvolvedora de software!
 
 ---
 
