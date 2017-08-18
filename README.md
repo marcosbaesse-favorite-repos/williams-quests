@@ -1,2 +1,3 @@
-# williams-challenges
-William's Challenges is a career path in little tasks
+# William's Challenges
+
+William's Challenges é um guia de carreira até se tornar uma pessoa desenvolvedora de software em pequenos desafios.
