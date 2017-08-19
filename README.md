@@ -47,3 +47,6 @@ Essas trilhas, esses cursos e tutoriais na internet são o caminho feliz. Você 
 
 A única maneira de se sentir capaz de enfrentar os desafios é passando por vários e vários problemas diferentes e isso se consegue **praticando**.
 
+## Diferentes níveis profissionais
+
+Os diferentes níveis profissionais podem ser encontrados no [Carreira Front End](https://github.com/woliveiras/front-end-career/) onde eu listo os níveis como profissional de desenvolvimento de software e também como front end.
